@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <string name="term_and_condition">I agree with <font color='#F44336'><u><b>term &amp; condition</b></u></font></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_account">Sign in to your</string>
+
+    <string name="facebook_app_id">997027617627411</string>
+    <string name="fb_login_protocol_scheme">fb997027617627411</string>
+    <string name="facebook_client_token">57f45e70a0fab46f68ceb698eecb79bf</string>
+
+
+</resources>

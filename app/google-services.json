@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448007470175",
+    "project_id": "socialx-60ba0",
+    "storage_bucket": "socialx-60ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448007470175:android:57da2adb8ebb5e13b76fea",
+        "android_client_info": {
+          "package_name": "com.qunatum.socialx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448007470175-f7suub7enjshq51is4pr5q2jps5dtnag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qunatum.socialx",
+            "certificate_hash": "66e4fe879b24895791afc44b7be40d2dd299ba03"
+          }
+        },
+        {
+          "client_id": "448007470175-2iffjda3e69ddqcma2hl9tlhgau1b3ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBxW13PWQ7DIvObOzvkpBDTjLaw0Hg6PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448007470175-2iffjda3e69ddqcma2hl9tlhgau1b3ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
